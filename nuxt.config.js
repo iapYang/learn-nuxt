@@ -1,5 +1,7 @@
 module.exports = {
     head: {
+        title: 'Foo Bar',
+        titleTemplate: '%s - Baz',
         meta: [{
             charset: 'utf-8',
         }, {

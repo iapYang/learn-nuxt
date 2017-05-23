@@ -7,7 +7,16 @@
 
 <script>
 export default {
-  
+    data() {
+        return {
+            title: 'Hello',
+        };
+    },
+    head () {
+        return {
+            title: this.title,
+        };
+    },
 };
 </script>
 
