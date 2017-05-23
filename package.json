@@ -1,0 +1,19 @@
+{
+  "name": "learn-nuxt",
+  "version": "0.0.0",
+  "description": "learn how to use nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://iapYang@github.com/iapYang/learn-nuxt.git"
+  },
+  "author": "iapyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iapYang/learn-nuxt/issues"
+  },
+  "homepage": "https://github.com/iapYang/learn-nuxt#readme"
+}
