@@ -4,6 +4,7 @@
   "description": "learn how to use nuxt",
   "main": "index.js",
   "scripts": {
+    "dev": "nuxt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/iapYang/learn-nuxt/issues"
   },
-  "homepage": "https://github.com/iapYang/learn-nuxt#readme"
+  "homepage": "https://github.com/iapYang/learn-nuxt#readme",
+  "devDependencies": {
+    "eslint-plugin-html": "^2.0.3",
+    "node-sass": "^4.5.3",
+    "nuxt": "^1.0.0-alpha1",
+    "sass-loader": "^6.0.5"
+  }
 }
